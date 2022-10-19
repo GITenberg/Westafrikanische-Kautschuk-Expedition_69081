@@ -1,0 +1,44 @@
+_repo: Westafrikanische-Kautschuk-Expedition_69081
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Schlechter, Rudolf
+    alias: Schlechter, Friedrich Reichardt Rudolf
+    birthdate: 1872
+    deathdate: 1925
+    gutenberg_agent_id: '55090'
+    url: http://www.gutenberg.org/2009/agents/55090
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Rudolf_Schlechter
+    - https://de.wikipedia.org/wiki/Rudolf_Schlechter
+  - agent_name: Deutsche Kolonialgesellschaft. Kolonial-Wirtschaftliches Komitee
+    aliases:
+    - Deutsche Kolonialgesellschaft. Kolonial-Wirtschaftliches Komittee
+    - Deutsche Kolonialgesellschaft. Kolonial-Wirtschaftlichen Komitees
+    gutenberg_agent_id: '55086'
+    url: http://www.gutenberg.org/2009/agents/55086
+description: ''
+gutenberg_issued: '2022-10-01'
+identifiers:
+  gutenberg: '69081'
+  lccn: '02012053'
+language: de
+pgterms:marc904: https://archive.org/details/westafrikanische1900schl
+pgterms:marc905: 20130217100012schlechter
+pgterms:marc906: '1900'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Germany :Kolonial-Wirtschaftliches Komitee,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rubber'
+- !lcsh 'Cameroon -- Description and travel'
+- !lcsh 'Plants -- Cameroon'
+- !lcc 'SB'
+- GITenberg
+title: Westafrikanische Kautschuk-Expedition
+url: http://www.gutenberg.org/ebooks/69081
