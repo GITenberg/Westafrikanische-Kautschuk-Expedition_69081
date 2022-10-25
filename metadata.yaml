@@ -1,5 +1,8 @@
 _repo: Westafrikanische-Kautschuk-Expedition_69081
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69081-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Schlechter, Rudolf
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '55086'
     url: http://www.gutenberg.org/2009/agents/55086
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69081#Westafrikanische-Kautschuk-Expedition
 gutenberg_issued: '2022-10-01'
 identifiers:
   gutenberg: '69081'
